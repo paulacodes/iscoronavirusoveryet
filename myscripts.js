@@ -1,5 +1,3 @@
-console.log("HELLO")
-
 var activityIndex = 0 
 
 let activityList = 
