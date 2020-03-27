@@ -1,2 +1,2 @@
-# iscoronavirusoveryet
-Is coronavirus over yet?
+# Is coronavirus over yet?
+https://iscoronavirusoveryet.com
