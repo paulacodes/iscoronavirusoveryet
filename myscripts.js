@@ -17,7 +17,6 @@ let activityList =
 	"Watch a movie.",
 	"Or just weird Youtube videos.",
 	"Write a few haikus\\about the things you will do\\once you can go out.",
-	"Don't write a Medium article.",
 	"Bake.",
 	"Take naps.",
 	"Take a walk.",
