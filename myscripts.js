@@ -7,17 +7,21 @@ let activityList =
 	"Read a book.",
 	"Hug your dog.",
 	"Learn how to make actual coffee.",
-	"Download TikTok.",
-	"Jk.",
-	"Have a group call with those friends from high school you haven't talked to in years.",
+	"Join group calls.",
 	"Cry.",
 	"Be kind.",
 	"Be kind to yourself.",
+	"Download TikTok.",
+	"Jk.",
+	"Unless?",
 	"Watch a movie.",
 	"Or just weird Youtube videos.",
-	"Write some haikus\\about the things you will do\\once you can go out.",
+	"Write a few haikus\\about the things you will do\\once you can go out.",
 	"Don't write a Medium article.",
-	"Bake"
+	"Bake.",
+	"Take naps.",
+	"Take a walk.",
+	"Breathe."
 
 ]
 
