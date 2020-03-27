@@ -18,7 +18,6 @@ let activityList =
 	"Write a few haikus\\about the things you will do\\once you can go out.",
 	"Bake.",
 	"Take naps.",
-	"Take a walk.",
 	"Breathe."
 
 ]
