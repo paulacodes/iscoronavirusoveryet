@@ -29,6 +29,5 @@ document.onclick= function(event) {
 		var activity = "\n" + activityList[activityIndex]
 		activities.textContent += activity + " "
 		activityIndex += 1
-		console.log(activities.textContent)
 	}
 };
