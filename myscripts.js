@@ -16,6 +16,8 @@ let activityList =
 	"Watch a movie.",
 	"Or just weird Youtube videos.",
 	"Write a few haikus\\about the things you will do\\once you can go out.",
+	"Yes, the word 'haiku' has two syllables.",
+	"I googled it.",
 	"Bake.",
 	"Take naps.",
 	"Breathe."
